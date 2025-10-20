@@ -1,0 +1,681 @@
+Act 2
+Act2
+Act II
+Act Two
+Act 3
+Act3
+Act III
+Act Three
+A3
+Act 4
+Act4
+Act 5
+Act5
+Moss Grotto
+Bone Bottom
+Bone bottoms
+Bone bottom’s
+Moss home
+Marrow
+Deep Docks
+Far Fields
+FarFields
+Pilgrims rest
+Pilgrim rest
+Pilgrim’s rest
+Hunters March
+Weavenest
+Greymoor
+Halfway Home
+Craw lake
+Bellhart
+Bellharts
+Bellhart’s
+Shellwood
+Blasted steps
+Sands
+Karak
+Coral tower
+Grand gate
+Citadel
+Underworks
+Choral chambers
+High halls
+Cogwork core
+Whispering vaults
+The stage
+Songclave
+Songclaves
+Songclave’s
+Memorium
+Whiteward
+Cradle
+Bellway
+Cauldron
+Wisp thicket
+Sinners road
+Bilewater
+Exhaust organ
+The mist
+Bilehaven
+Putrified ducts
+Fleatopia
+The slab
+Mount fay
+Bonegrave
+Abyss
+The forum
+Silk eater
+Silkeater
+Silk eaters
+Silkeaters
+Simple key
+Simple keys
+Shard bundle
+Shard bundles
+Beast shards
+Beast shard
+Hornet statuette
+Psalm cylinder
+Psalm cylinders
+Arcane egg
+Arcane eggs
+Choral commandment
+Choral commandments
+Rune harp
+Rune harps
+Weaver effigy
+Weaver effigies
+Seared organ
+Seared organs
+Shredded organ
+Shredded organs
+Skewered organ
+Skewered organs
+Apostate key
+Heretic key
+Indolent key
+White key
+Pristine core
+Bone scroll
+Bone scrolls
+Encrusted heart
+Pollen heart
+Hunter heart
+Hunters heart
+Hunter’s heart
+Craftmetal
+Craft metal
+Tool pouch
+Tool pouches
+Crafting kit
+Crafting kits
+Farsight
+Mossberry
+Mossberriws
+Mossberry stew
+Pilgrim shawl
+Spine core
+Spine cores
+Flintgem
+Flintstone
+Crown fragment
+Horn fragment
+Silver bell
+Silver bells
+Pollip heart
+Pollip hearts
+Ragpelt
+Plasmium
+Roach guts
+Courier swag
+Queens egg
+Curier rasher
+Craftmetal
+Pale oil
+Vintage nectar
+Pickled muckmaggot
+Crustnut
+Broodmother eye
+Broodmothers eye
+Choir cloak
+Steel spines
+Hermit soul
+Hermits souk
+Maiden soul
+Maidens soul
+Seeker soul
+Seekers soul
+Hunter journal
+Hunters journal
+Hunter’s journal
+Faydown
+Drifter
+Drifters
+Drifter’s
+Float
+Glide
+Spool fragment
+Spool fragments
+Mask shard
+Mask shards
+Needolin
+Beastling call
+Elegy of the deep
+Swift step
+Dash
+Dashing
+Dashes
+Sprint
+Sprinting
+Clawline
+Harpoon
+Cling grip
+Wall climb
+Wallclimb
+Wall jump
+Walljump
+Double Jump
+Doublejump
+2x jump
+X2 jump
+Silk soar
+Super jump
+Silk heart
+Needle upgrade
+Needle upgrades
+Hivesteel
+Pale steel
+Silk skill
+Silk skills
+Silkspear
+Silk Spear
+Thread storm
+Threadstorm
+Cross stitch
+Crossstitch
+Parry
+Rune rage
+Runerage
+Sharpdart
+Sharp dart
+Pale Nails
+Crest
+Crests
+Hunters
+Hunter
+Hunter’s
+Reaper
+Reapers
+Reaper’s
+Wanderer
+Wanderers
+Wanderer’s
+Beast crest
+Beasts crest
+Beast’s crest
+crest of the beast
+Witch
+witch’s
+witchs
+witches
+Architect
+Architects
+Architect’s
+Shaman
+Shamans
+shaman’s
+Straight pin
+Threefold
+Sting shard
+Tacks
+Longpin
+Curveclaw
+Curve claw
+Curve Sickle
+Curvesickle
+Boomerang
+Boomerangs
+Throwing Ring
+Throwing Rings
+Shakra Rings
+Shakra’s Rings
+Pimpillo
+Conchcutter
+Ruined tool
+Snare Setter
+Silkshot
+silk shot
+Silk cannon
+Silk gun
+Delver drill
+Delvers drill
+delver’s drill
+Sawblade
+cogwork wheel
+Cogfly
+Cogflys
+Cogfly’s
+Cogflies
+Rosary cannon
+Rosary gun
+voltvessel
+voltvessels
+Flintslate
+Flea brew
+Plasmium phial
+Druid eye
+Druids eye
+Druid’s eye
+Druid eyes
+Druids eyes
+Druid’s eyes
+Magma bell
+Warding bell
+Pollip pouch
+Fractured Mask
+Multibinder
+Multibind
+Weavelight
+Sawtooth
+Circlet
+Injector band
+Spool Extender
+Reserve bind
+Claw mirror
+Claw mirrors
+Memory Crystal
+Snitch Pick
+Volt Filament
+Filament
+Quick Sling
+Wreath of purity
+Longclaw
+Wispfire lantern
+egg of flealia
+pin badge
+Compass
+Shard pendant
+Magnet
+Magnetite brooch
+Weighted belt
+Barbed bracelet
+shell satchel
+Dead bug purse
+Dead bugs purse
+Magnetite dice
+dice
+Scuttlebrace
+Ascendant grip
+ascendants grip
+ascendant’s grip
+spider strings
+spider string
+silk speed
+Silkspeed
+Thief mark
+Thiefs mark
+Thief’s mark
+Broodfeast
+runtfeast
+Fatal resolve
+Dark hearts
+Hero call
+Heros call
+Hero’s call
+Fastest in pharloom
+Threadspun town
+Grand gate
+Silent halls
+Conductor melody
+Conductors melody
+Conductor’s melody
+Architect melody
+Architects melody
+Architect’s melody
+Vaultkeeper melody
+Vaultkeepers melody
+Vaultkeeper’s melody
+Pharloom crown
+Pharlooms crown
+Pharloom’s crown
+Soul snare
+After the fall
+Awaiting the end
+Beast in the bells
+The dark below
+Return to pharloom
+Spell seeker
+A lifesaving bridge
+An icon of hope
+Garb of the pilgrims
+Berry picking
+The lost fleas
+Volatile flintbeetles
+The terrible tyrant
+Flexible spines
+Bugs of pharloom
+My missing courier
+Pinmaster oil
+Pinmasters oil
+Pinmaster’s oil
+My missing brother
+Crawbug clearing
+Rite of rebirth
+Rite of the pollip
+Alchemist assistant
+Alchemists assistant
+Alchemist’s assistant
+Infestation operation
+Roach guts
+Fine pins
+The wandering merchant
+The lost merchant
+Cloaks of the choir
+The wailing mother
+Balm for the wounded
+Great taste of pharloom
+Silk and soul
+Trail end
+Trails end
+Trail’s end
+Pain anguish and misery
+Pain, anguish and misery
+Pain, anguish, and misery
+Pain anguish, and misery
+The old hearts
+Heart of might
+Heart of the woods
+Heart of the wild
+Passing of the age
+dark hearts
+ecstasy of the end
+Last dive
+Pebb
+Pavo
+Sherma
+Shermas
+Sherma’s
+Shakra
+Shakras
+Shakra’s
+Caretaker
+Caretakers
+Caretaker’s
+Frey
+Pinmaster
+Plinney
+Tipp
+Pill
+Grindle
+Mask maker
+Scrounge
+Relic seeker
+Huntress
+Mooshka
+Vog
+Flea
+Fleas
+Flea’s
+Bell beast
+Bell beastling
+Forge daughter
+Loddie
+Flick
+Garmond
+Garamond
+Zaza
+Vaultkeeper
+Architect
+Conductor
+Nuu
+Creige
+Yarnaby
+Greyroot
+Caravan
+Mort
+Skarr
+Green prince
+Zylotol
+Moss druid
+Ballow
+Bell hermit
+Chapel maid
+Gilly
+Pinstress
+Lumble
+Seamstress
+Styx
+Skynx
+Mossgrub
+Mossmir
+Aknid
+Skull Scuttler
+Skullwing
+skull wing
+Skull Brute
+Kilik
+Squirrm
+Beastfly
+Beastflies
+beastflys
+Beastfly’s
+Caranid
+Hardbone Hopper
+Hardbone Elder
+Tramite
+Flintbeetle
+Hooker
+Marrowmaw
+Rhinogrund
+Rhinoground
+Pilgrim
+Skarr
+Wisp
+wisps
+Craw
+craws
+Maggot
+Maggots
+Maggot’s
+Shardillard
+Clawmaiden
+Clawmaidens
+Claw Maiden
+Claw Maidens
+Cogwork Clapper
+Penitent
+Lifeseed
+Wingsmould
+Voidmass
+void mass
+Moss Mother
+Moss Mothers
+Moss Mother’s
+Skull Tyrant
+Skull Tyrants
+Skull Tyrant’s
+Bell Beast
+Bellbeast
+Bell Beasts
+bell beast’s
+Summoned Savior
+Summoned Saviour
+Signis
+Gron
+Forebrother
+Forebrothers
+Craggler
+Fourth Chorus
+Skarrgard
+Gurr
+the outcast
+Skarrsinger
+Karmelita
+carmelita
+Karmelitas
+Carmelitas
+Karmelita’s
+Carmelita’s
+Moorwing
+Moorwings
+Moorwing’s
+Father of the flame
+Father of the flames
+Father of the flame’s
+Crawfather
+Craw father
+Crawfathers
+Craw fathers
+Craw Father’s
+Crawfather’s
+Disgraced chef
+Lugoli
+Lugolis
+Lugoli’s
+Ass jim
+Ass jims
+Ass Jim’s
+Groal
+Groals
+Groal’s
+Sister splinter
+Sister Splinters
+Sister Splinter’s
+Shrine Guardian
+Seth
+Seths
+Seth’s
+Nyleth
+Nyleths
+Nyleth’s
+Last Judge
+Last judges
+Last Judge’s
+Conchfly
+Conchflies
+Conchflys
+Conchfly’s
+Crust King
+Khann
+Khanns
+khann’s
+Watcher at the edge
+Voltvyrm
+Second Sentinel
+Second Sentinels
+Second Sentinel’s
+Unravelled
+Cogwork
+Dancers
+Clover Dancers
+Trobbio
+Trobbios
+Trobbio’s
+Tormented Trobbio
+Broodmother
+Brood mother
+Broodmothers
+Broodmother’s
+Brood mothers
+brood mother’s
+Zango
+Plasmified
+Palestag
+Pale stag
+Bell Eater
+Bell eaters
+bell bell eater’s
+Huge Flea
+Widow
+Widows
+widow’s
+First Sinner
+First sinners
+First sinner’s
+Phantom
+Phantom’s
+Phantoms
+Lace
+Laces
+Lace’s
+Lost Lace
+Grand Mother Silk
+Mother silk
+Mommy silk
+Plasmium
+Lifeblood
+Bellhome
+Bellway
+Flower Quest
+Endings
+An ending
+Steel Soul
+SteelSoul
+TLJ
+FS
+GMS
+LLace
+TTrobbio
+needle upgrade
+double jump
+doublejump
+bile water
+greymoor
+sentinel
+lockets
+locket
+endings
+wormways
+vesticrests
+act ii
+act iii
+zango
+cogheart
+second sentinel
+void
+craw
+claw
+cog core
+https://mapgenie.io/hollow-knight-silksong/maps/pharloom
+choral chamber
+choral chambers
+bell home
+dark mirror
+ll
+silk n soul
+silk & soul
+white ward
+sinner road
+final judge
+slab
+verdania
+cursed
+true ending
+bonebottom
+greymore
+greymoore
+grandma silk
+speed anklet
+speed anklets
+double jumping
+charged attack
+volt vessels
+mosshome
+blasted step
+a.c.t 2
+a.c.t. 2
+a.c.t 3
+a.c.t. 3
+the dock
+the docks
+red memory
+silk spool
+silk spools
+silkspools
+delivery
+deliveries
+A2
+vesticrest
+mt fay
+underwork
