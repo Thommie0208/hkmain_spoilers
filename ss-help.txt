@@ -641,12 +641,13 @@ https://mapgenie.io/hollow-knight-silksong/maps/pharloom
 choral chamber
 choral chambers
 bell home
-dark mirror
+Dark mirror
 ll
 silk n soul
 silk & soul
 white ward
 sinner road
+final judge
 final judge
 slab
 verdania
@@ -656,8 +657,6 @@ bonebottom
 greymore
 greymoore
 grandma silk
-speed anklet
-speed anklets
 double jumping
 charged attack
 volt vessels
@@ -671,13 +670,21 @@ the dock
 the docks
 red memory
 silk spool
+silkspool
 silk spools
 silkspools
 delivery
 deliveries
-A2
 vesticrest
 mt fay
 underwork
+A2
 conch cutter
+kratt
+vaults
+vaultkeepers
 everbloom
+poshanka
+straight pins
+journal
+brightvein
