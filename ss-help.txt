@@ -658,8 +658,6 @@ charged attack
 volt vessels
 mosshome
 blasted step
-a.c.t 2
-a.c.t. 2
 a.c.t 3
 a.c.t. 3
 the dock
@@ -703,3 +701,17 @@ weave nest
 weave nests
 weavenests
 crow
+snare ending
+three acts
+3 acts
+memento
+momento
+momentos
+mementos
+grandmother silk
+granny silk
+twisted bud
+twisted child
+melody
+melodies
+melodie
