@@ -832,3 +832,4 @@ mask fragment
 mask fragments
 white palaces
 shadow cloak
+journal
