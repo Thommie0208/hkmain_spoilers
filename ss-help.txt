@@ -623,7 +623,6 @@ locket
 endings
 wormways
 vesticrests
-act ii
 act iii
 zango
 cogheart
@@ -721,7 +720,6 @@ reeds
 mistress of the needle
 spool frag
 spool frags
-enter the  dream
 shell wood
 grey moor
 steel heart
@@ -731,4 +729,20 @@ sharpened needle
 worm ways
 wormway
 worm way
+enter the dream
 mist
+verdinia
+in the dream
+silksoar
+herald
+mr mushroom
+mr. mushroom
+mr.mushroom
+courier
+couriers
+courier's
+karm
+mister mushroom
+materium
+putrified
+parasite
