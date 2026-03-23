@@ -853,3 +853,7 @@ r5ab
 r04
 unbstrength
 howling wrath
+dream nailed
+infected
+spell upgrade
+dirthmouth
