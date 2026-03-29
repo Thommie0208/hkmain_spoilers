@@ -816,3 +816,46 @@ heretic
 thread raker
 splinter
 furm
+ignim
+servitor
+pharlid
+tarmite
+fertid
+mite
+squatcraw
+tallcraw
+slubberlug
+karaka
+drapemite
+gourmand
+sula
+steel seer zi
+mergwin
+squit
+cardinus
+plasmid
+plasmidas
+mawling
+grom
+gromling
+lavalug
+lavalarga
+smelt shovellor
+smokerock
+cragglite
+brushflit
+brushfilt
+skarrlid
+skarrwing
+fluttermite
+mitemother
+drapelord
+drapefly
+burning bug
+juror
+ant place
+ant area
+dreg
+dregwheel
+mortician
+silk snipper
