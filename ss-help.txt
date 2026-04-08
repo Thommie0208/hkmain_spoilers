@@ -563,7 +563,6 @@ reaper’s
 red memory
 reed
 reeds
-relic seeker
 reserve bind
 return to pharloom
 rhinoground
@@ -696,8 +695,6 @@ songclaves
 songclave’s
 soul and silk
 soul snare
-speed anklet
-speed anklets
 spell seeker
 spider string
 spider strings
@@ -859,3 +856,11 @@ zango
 zango
 zaza
 zylotol
+cardinius
+bola
+anklet
+anklets
+relic
+cross-stitch
+silk-spear
+wall cling
