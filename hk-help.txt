@@ -34,6 +34,8 @@ baldur shell
 baldurs
 banish
 banishment
+bank
+banker
 bardoon
 base ending
 basin
@@ -161,12 +163,15 @@ dream boss
 dream boss
 dream bosses
 dream essence
+dream fight
 dream gate
 dream nail
 dream nailed
 dream no more
+dream rematch
 dream tree
 dream trees
+dream version
 dream warrior
 dream warrior
 dream warriors
@@ -178,6 +183,7 @@ dreamgates
 dreamnail
 dreamshield
 dryya
+dung
 dung defender
 duranda
 durandas
@@ -334,6 +340,7 @@ hiveknight
 hiveling
 hivelings
 hog
+home of gods
 hopper
 hoppers
 hopping zoteling
@@ -341,6 +348,7 @@ hopping zotelings
 hornet
 hornet protector
 hornet sentinel
+house of gods
 howling cliff
 howling cliffs
 howling wraith
@@ -593,6 +601,7 @@ pure vessel
 purevessel
 pv
 q slash
+qf
 qg
 qga
 qs
@@ -727,6 +736,9 @@ stone sanctuary
 sturdy fool
 sturdy fools
 super dash
+t1
+t2
+t3
 teacher archive
 teacher archives
 teacher's archive
@@ -757,7 +769,6 @@ tiso
 tl
 tmg
 tower of love
-train
 traitor
 traitor lord
 tram
@@ -768,6 +779,7 @@ trial of fool
 trial of the conqueror
 trial of the fool
 trial of the warrior
+troupe master
 troupe master grimm
 true ending
 tuk
@@ -776,6 +788,7 @@ unbreakable
 unbreakable greed
 unbreakable heart
 unbreakable strength
+unbreakables
 unbstrength
 unn
 unnamed moth
@@ -859,17 +872,11 @@ zmer
 zote
 zote the mighty
 zotes
-unbreakables
-dream version
-dream rematch
-dream fight
-t1
-t2
-t3
-house of gods
-home of gods
-troupe master
-dung
-bank
-banker
-qf
+shrieks
+hotspring
+hot spring
+dream realm
+channeled
+coiled
+sharpened
+

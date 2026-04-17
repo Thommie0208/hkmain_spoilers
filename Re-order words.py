@@ -1,3 +1,8 @@
+import os
+
+base_dir = os.path.dirname(__file__)
+path = os.path.join(base_dir, "hk-help.txt")
+
 def readfile(filename: str) -> list[str]:
     words = []
     with open(filename, 'r') as f:
@@ -11,4 +16,4 @@ def writefile(filename: str, words: list[str]) -> None:
         for word in words:
             f.write(word + '\n')
 
-writefile('ss-help.txt', sorted(readfile('ss-help.txt')))
+writefile(path, sorted(readfile(path)))
