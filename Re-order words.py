@@ -1,7 +1,7 @@
 import os
 
 base_dir = os.path.dirname(__file__)
-path = os.path.join(base_dir, "hk-help.txt")
+path = os.path.join(base_dir, "ss-help.txt")
 
 def readfile(filename: str) -> list[str]:
     words = []

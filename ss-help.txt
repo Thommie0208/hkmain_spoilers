@@ -133,6 +133,7 @@ choral chambers
 choral commandment
 choral commandments
 choristor
+chorus
 circlet
 citadel
 ckk
@@ -667,6 +668,7 @@ silver bell
 silver bells
 simple key
 simple keys
+sinner
 sinner road
 sinner's road
 sinners road
@@ -713,6 +715,7 @@ spool frag
 spool fragment
 spool fragments
 spool frags
+spool upgrade
 sprint
 sprinting
 squatcraw
@@ -864,6 +867,8 @@ zango
 zango
 zaza
 zylotol
-spool upgrade
-chorus
-sinner
+fay
+double-jump
+green dude
+green guy
+volt vessel
