@@ -72,6 +72,7 @@ casts
 catcher
 cdash
 cg
+channeled
 channelled nail
 charged lumaflies
 charged lumafly
@@ -83,6 +84,7 @@ city storerooms
 cliffs
 cloth
 cof
+coiled
 coiled nail
 collector
 collector map
@@ -131,7 +133,6 @@ death loodle
 death loodles
 deep focus
 deep nest
-deepest
 deephunter
 deephunters
 deepling
@@ -168,6 +169,7 @@ dream gate
 dream nail
 dream nailed
 dream no more
+dream realm
 dream rematch
 dream tree
 dream trees
@@ -348,6 +350,8 @@ hopping zotelings
 hornet
 hornet protector
 hornet sentinel
+hot spring
+hotspring
 house of gods
 howling cliff
 howling cliffs
@@ -669,6 +673,7 @@ shardmites
 sharp baldur
 sharp baldurs
 sharp shadow
+sharpened
 sharpened nail
 sheo
 shielded fool
@@ -676,6 +681,7 @@ shielded fools
 shopkeeper key
 shopkeeper's key
 shriek
+shrieks
 shrumal ogre
 shrumal ogres
 shrumal warrior
@@ -872,11 +878,6 @@ zmer
 zote
 zote the mighty
 zotes
-shrieks
-hotspring
-hot spring
-dream realm
-channeled
-coiled
-sharpened
-
+another ending
+beat the hollow knight
+cristal
