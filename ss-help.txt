@@ -236,6 +236,7 @@ djump
 double jump
 double jump
 double jumping
+double-jump
 doublejump
 doublejump
 drapefly
@@ -276,6 +277,7 @@ fatal resolve
 father of the flame
 father of the flames
 father of the flame’s
+fay
 faydown
 fertid
 fight judge
@@ -325,6 +327,8 @@ grandmother silk
 granny silk
 grapple
 great taste of pharloom
+green dude
+green guy
 green prince
 grey moor
 greymoor
@@ -814,6 +818,7 @@ void mass
 voidmass
 volatile flintbeetles
 volt filament
+volt vessel
 volt vessels
 voltvessel
 voltvessels
@@ -867,8 +872,6 @@ zango
 zango
 zaza
 zylotol
-fay
-double-jump
-green dude
-green guy
-volt vessel
+trobio
+trobioo
+needle level

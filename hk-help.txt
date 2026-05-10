@@ -12,6 +12,7 @@ ambloom
 amblooms
 an ending
 ancient basin
+another ending
 any ending
 anyrad
 arcane egg
@@ -44,6 +45,7 @@ battle obbles
 beast den
 beast's den
 beasts den
+beat the hollow knight
 bee
 beehive
 bees
@@ -106,6 +108,7 @@ cowardly husks
 cp
 crawlid
 crawlids
+cristal
 crossroad
 crossroads
 crystal
@@ -878,6 +881,9 @@ zmer
 zote
 zote the mighty
 zotes
-another ending
-beat the hollow knight
-cristal
+essences
+fq
+tyrant
+fought the sun
+steal soul
+metamorphosis
