@@ -208,6 +208,7 @@ enraged guardian
 entombed husk
 entombed husks
 essence
+essences
 eternal emilitia
 eternal ordeal
 every ending
@@ -218,6 +219,9 @@ failed champion
 false knight
 fc
 fight the sun
+fight, the sun
+fighting the sun
+fighting, the sun
 fireball
 fireballs
 flower
@@ -241,6 +245,8 @@ fool eater
 forgotten crossroad
 forgotten crossroads
 fotf
+fought the sun
+fq
 fragile
 fragile greed
 fragile heart
@@ -489,6 +495,7 @@ mawlurk
 max nail
 mender bug
 menderbug
+metamorphosis
 metro
 midwife
 millibelle
@@ -739,6 +746,7 @@ stalwart
 stalwart shell
 steady
 steady body
+steal soul
 steel soul
 steelsoul
 stone sanctuary
@@ -793,6 +801,7 @@ troupe master grimm
 true ending
 tuk
 twister
+tyrant
 unbreakable
 unbreakable greed
 unbreakable heart
@@ -881,11 +890,6 @@ zmer
 zote
 zote the mighty
 zotes
-essences
-fq
-tyrant
-fought the sun
-steal soul
-metamorphosis
-fighting the sun
-fighting, the sun
+mossy
+vessels
+claw
