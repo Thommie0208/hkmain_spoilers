@@ -83,6 +83,7 @@ city crest
 city of tears
 city storeroom
 city storerooms
+claw
 cliffs
 cloth
 cof
@@ -518,6 +519,7 @@ mosscreeps
 mossflies
 mossfly
 mosskin
+mossy
 moth
 mothwing cloak
 mound
@@ -822,6 +824,7 @@ vengeful spirit
 vespa
 vessel
 vessel fragment
+vessels
 vfk
 violent husk
 violent husks
@@ -890,6 +893,21 @@ zmer
 zote
 zote the mighty
 zotes
-mossy
-vessels
-claw
+good ending
+d-dark
+the tear
+which ending
+gw
+wv
+gs
+grubby
+panth1
+panth2
+panth3
+panth4
+panth5
+revek
+queen’s garden
+poh
+trials
+radiace

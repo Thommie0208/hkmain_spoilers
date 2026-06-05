@@ -468,6 +468,7 @@ moorwing’s
 mooshka
 mort
 mortician
+moss chapel
 moss druid
 moss grotto
 moss home
@@ -587,6 +588,7 @@ roach guts
 roaches
 rosary cannon
 rosary gun
+ruined chapel
 ruined tool
 rune harp
 rune harps
@@ -666,6 +668,7 @@ silkeaters
 silkheart
 silkshot
 silksoar
+silksore
 silkspear
 silkspeed
 silkspools
@@ -875,6 +878,7 @@ zango
 zango
 zaza
 zylotol
-moss chapel
-ruined chapel
-silksore
+karmileta
+beastiary
+bestiary
+bestiray
