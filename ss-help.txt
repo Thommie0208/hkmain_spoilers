@@ -58,6 +58,7 @@ beastflies
 beastfly
 beastflys
 beastfly’s
+beastiary
 beastling call
 beasts crest
 beast’s crest
@@ -81,6 +82,8 @@ bellhome
 bellway
 bellway
 berry picking
+bestiary
+bestiray
 bile water
 bilehaven
 bilewater
@@ -393,6 +396,7 @@ karm
 karmelita
 karmelitas
 karmelita’s
+karmileta
 karmlita
 khann
 khanns
@@ -875,10 +879,13 @@ wreath of purity
 x2 jump
 yarnaby
 zango
-zango
 zaza
 zylotol
-karmileta
-beastiary
-bestiary
-bestiray
+3rd act
+thieves mark
+thieves' mark
+chapter 3
+chapter three
+ch3
+third chapter
+craftmetals

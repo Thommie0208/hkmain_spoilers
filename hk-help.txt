@@ -125,6 +125,7 @@ crystallised husk
 crystallised husks
 cyclone slash
 d dark
+d-dark
 dash
 dash master
 dash slash
@@ -284,6 +285,7 @@ godhome
 godseeker
 godseeker mode
 godtuner
+good ending
 gorb
 gorgeous husk
 gpz
@@ -318,14 +320,17 @@ grubberflies
 grubberfly
 grubberfly elegy
 grubberfly's elegy
+grubby
 grubfather
 grubs
 grubsong
 gruz mother
 gruzzer
 gruzzers
+gs
 gulka
 gulkas
+gw
 hall of god
 hall of gods
 hallownest crown
@@ -596,6 +601,11 @@ pale king
 pale lurker
 pale ore
 pale ores
+panth1
+panth2
+panth3
+panth4
+panth5
 pantheon
 pantheon of hallownest
 pantheon of the knight
@@ -607,6 +617,7 @@ peaks
 pilflip
 pilflips
 pleasure house
+poh
 pop
 primal aspid
 primal aspids
@@ -629,6 +640,7 @@ queen's station
 queens garden
 queens station
 queen’s garden
+queen’s garden
 quick cast
 quick focus
 quick slash
@@ -642,6 +654,7 @@ r5
 r5ab
 radabsrad
 radhog
+radiace
 radiance
 radiant
 radience
@@ -655,6 +668,7 @@ relic
 relics
 resting ground
 resting grounds
+revek
 royal retainer
 royal waterway
 royal waterways
@@ -742,8 +756,6 @@ ssoul
 stag
 stag nest
 stags
-stalking devout
-stalking devouts
 stalwart
 stalwart shell
 steady
@@ -779,6 +791,7 @@ the lighthouse
 the mighty
 the sisters
 the spell
+the tear
 thk
 thorns
 thorns of agony
@@ -798,6 +811,7 @@ trial of fool
 trial of the conqueror
 trial of the fool
 trial of the warrior
+trials
 troupe master
 troupe master grimm
 true ending
@@ -864,6 +878,7 @@ weaver
 weaver song
 weavers
 weaversong
+which ending
 whispering root
 white defender
 white fragment
@@ -885,6 +900,7 @@ wk
 world sense
 wraith
 wraiths
+wv
 wyrm
 xero
 ze'mer
@@ -893,21 +909,16 @@ zmer
 zote
 zote the mighty
 zotes
-good ending
-d-dark
-the tear
-which ending
-gw
-wv
-gs
-grubby
-panth1
-panth2
-panth3
-panth4
-panth5
-revek
-queen’s garden
-poh
-trials
-radiace
+overcharming
+white frag
+devout
+devouts
+r1
+collectors map
+quick spell
+spell build
+stagway
+abbys
+radianting
+gallien
+spell builds
