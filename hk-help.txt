@@ -1,4 +1,5 @@
 a spell
+abbys
 abs rad
 absolute radiance
 absrad
@@ -92,6 +93,7 @@ coiled nail
 collector
 collector map
 collector's map
+collectors map
 collosseum
 collosseums
 colo
@@ -151,6 +153,8 @@ delicate flowers
 descending dark
 desolate
 desolate dive
+devout
+devouts
 dirtcarver
 dirtcarvers
 dirthmouth
@@ -267,6 +271,7 @@ furious vengefly
 fury
 fury of the fallen
 galien
+gallien
 gardens
 garpede
 garpedes
@@ -577,6 +582,7 @@ oro
 oro & mato
 overcharm
 overcharmed
+overcharming
 p1
 p1ab
 p1eb
@@ -644,11 +650,13 @@ queen’s garden
 quick cast
 quick focus
 quick slash
+quick spell
 quickfocus
 quickslash
 quill
 quirrel
 r04
+r1
 r4
 r5
 r5ab
@@ -657,6 +665,7 @@ radhog
 radiace
 radiance
 radiant
+radianting
 radience
 radience
 radient
@@ -734,6 +743,8 @@ soul tyrant
 soul warrior
 soulmaster
 spell build
+spell build
+spell builds
 spell twister
 spell upgrade
 spells
@@ -756,6 +767,7 @@ ssoul
 stag
 stag nest
 stags
+stagway
 stalwart
 stalwart shell
 steady
@@ -881,6 +893,7 @@ weaversong
 which ending
 whispering root
 white defender
+white frag
 white fragment
 white lady
 white palace
@@ -909,16 +922,20 @@ zmer
 zote
 zote the mighty
 zotes
-overcharming
-white frag
-devout
-devouts
-r1
-collectors map
-quick spell
-spell build
-stagway
-abbys
-radianting
-gallien
-spell builds
+fight the hollow knight
+wall hop
+shard
+dirt mouth
+vengful
+collo
+qfocus
+fighting? the sun
+lem
+shrieked
+upgraded my nail
+mothwing
+etv
+dnm
+panth
+lord fool
+all bindings

@@ -1,5 +1,6 @@
 2x jump
 3 acts
+3rd act
 a lifesaving bridge
 a.c.t 3
 a.c.t. 3
@@ -124,7 +125,10 @@ carmelita
 carmelitas
 carmelita’s
 cauldron
+ch3
 chapel maid
+chapter 3
+chapter three
 charge attack
 charged attack
 choir clapper
@@ -187,6 +191,7 @@ crafting kit
 crafting kits
 craftmetal
 craftmetal
+craftmetals
 craggler
 cragglite
 craw
@@ -360,7 +365,7 @@ herald
 heretic
 heretic key
 hermit soul
-hermits souk
+hermits soul
 hero call
 heros call
 hero’s call
@@ -776,7 +781,10 @@ the wandering merchant
 thief mark
 thiefs mark
 thief’s mark
+thieves mark
+thieves' mark
 third act
+third chapter
 thread raker
 thread storm
 threadspun town
@@ -881,11 +889,14 @@ yarnaby
 zango
 zaza
 zylotol
-3rd act
-thieves mark
-thieves' mark
-chapter 3
-chapter three
-ch3
-third chapter
-craftmetals
+spells
+karmalita
+exaust organ
+abysse
+druid
+diving bell
+hoker
+seeker's soul
+hermit's soul
+maiden's soul
+bellvein
