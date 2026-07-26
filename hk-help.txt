@@ -7,6 +7,7 @@ abyss
 abyss shriek
 abyss shrieks
 acid
+all bindings
 aluba
 alubas
 ambloom
@@ -94,6 +95,7 @@ collector
 collector map
 collector's map
 collectors map
+collo
 collosseum
 collosseums
 colo
@@ -155,6 +157,7 @@ desolate
 desolate dive
 devout
 devouts
+dirt mouth
 dirtcarver
 dirtcarvers
 dirthmouth
@@ -165,6 +168,7 @@ divine
 djump
 dnail
 dnail
+dnm
 double dash
 double focus
 double jump
@@ -217,6 +221,7 @@ essence
 essences
 eternal emilitia
 eternal ordeal
+etv
 every ending
 extra mask
 extra masks
@@ -224,10 +229,12 @@ failed champ
 failed champion
 false knight
 fc
+fight the hollow knight
 fight the sun
 fight, the sun
 fighting the sun
 fighting, the sun
+fighting? the sun
 fireball
 fireballs
 flower
@@ -450,6 +457,7 @@ leaping husk
 leaping husks
 leg eater
 legeater
+lem
 lemer
 lemm
 lesser mawlek
@@ -470,6 +478,7 @@ long nail
 longnail
 loodle
 loodles
+lord fool
 lost kin
 love key
 love tower
@@ -531,6 +540,7 @@ mossfly
 mosskin
 mossy
 moth
+mothwing
 mothwing cloak
 mound
 mr mushroom
@@ -607,6 +617,7 @@ pale king
 pale lurker
 pale ore
 pale ores
+panth
 panth1
 panth2
 panth3
@@ -635,6 +646,7 @@ purevessel
 pv
 q slash
 qf
+qfocus
 qg
 qga
 qs
@@ -686,7 +698,6 @@ salbura
 salubra
 salubra blessing
 salubra's blessing
-salubras blessing
 sanctum
 sbody
 sealed sibling
@@ -703,6 +714,7 @@ shaman
 shaman stone
 shamans
 shape of unn
+shard
 shardmite
 shardmites
 sharp baldur
@@ -716,6 +728,7 @@ shielded fools
 shopkeeper key
 shopkeeper's key
 shriek
+shrieked
 shrieks
 shrumal ogre
 shrumal ogres
@@ -840,6 +853,7 @@ unn
 unnamed moth
 uoma
 upgrade nail
+upgraded my nail
 upgraded nail
 upgrading nail
 uumuu
@@ -847,6 +861,7 @@ vengefly
 vengefly king
 vengeful
 vengeful spirit
+vengful
 vespa
 vessel
 vessel fragment
@@ -868,6 +883,7 @@ volatile zoteling
 volatile zotelings
 volt twister
 volt twisters
+wall hop
 wall jump
 wallhop
 wallhops
@@ -922,20 +938,14 @@ zmer
 zote
 zote the mighty
 zotes
-fight the hollow knight
-wall hop
-shard
-dirt mouth
-vengful
-collo
-qfocus
-fighting? the sun
-lem
-shrieked
-upgraded my nail
-mothwing
-etv
-dnm
-panth
-lord fool
-all bindings
+dreamwielder
+collecter
+radkoth
+dream shield
+salubras
+king’s brand
+joni
+all binding
+every binding
+colloseum
+trams

@@ -6,6 +6,7 @@ a.c.t 3
 a.c.t. 3
 a3
 abyss
+abysse
 act 3
 act 4
 act 5
@@ -15,6 +16,7 @@ act three
 act3
 act4
 act5
+act_3
 after the fall
 aknid
 alchemist assistant
@@ -80,6 +82,7 @@ bellharts
 bellhart’s
 bellheart
 bellhome
+bellvein
 bellway
 bellway
 berry picking
@@ -240,6 +243,7 @@ delvers drill
 delver’s drill
 dice
 disgraced chef
+diving bell
 djump
 double jump
 double jump
@@ -257,6 +261,7 @@ drifters
 drifter’s
 driftlin
 drill
+druid
 druid eye
 druid eyes
 druids eye
@@ -276,6 +281,7 @@ envoy
 eva
 everbloom
 every ending
+exaust organ
 exhaust organ
 far fields
 farfields
@@ -365,12 +371,14 @@ herald
 heretic
 heretic key
 hermit soul
+hermit's soul
 hermits soul
 hero call
 heros call
 hero’s call
 high halls
 hivesteel
+hoker
 hooker
 horn fragment
 hornet statuette
@@ -398,6 +406,7 @@ juror
 karak
 karaka
 karm
+karmalita
 karmelita
 karmelitas
 karmelita’s
@@ -443,6 +452,7 @@ magnet
 magnetite brooch
 magnetite dice
 maiden soul
+maiden's soul
 maidens soul
 marrow
 marrowmaw
@@ -618,6 +628,7 @@ second sentinel
 second sentinels
 second sentinel’s
 seeker soul
+seeker's soul
 seekers soul
 sentinel
 servitor
@@ -722,6 +733,7 @@ songclave’s
 soul and silk
 soul snare
 spell seeker
+spells
 spider string
 spider strings
 spine core
@@ -889,15 +901,7 @@ yarnaby
 zango
 zaza
 zylotol
-spells
-karmalita
-exaust organ
-abysse
-druid
-diving bell
-hoker
-seeker's soul
-hermit's soul
-maiden's soul
-bellvein
-act_3
+pale oils
+silk ability
+silk abilities
+wq
