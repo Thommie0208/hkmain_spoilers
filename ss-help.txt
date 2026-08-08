@@ -532,6 +532,7 @@ pain, anguish and misery
 pain, anguish, and misery
 pale nails
 pale oil
+pale oils
 pale stag
 pale steel
 palestag
@@ -664,6 +665,8 @@ shrine guardian
 signis
 silent halls
 silk & soul
+silk abilities
+silk ability
 silk and soul
 silk cannon
 silk eater
@@ -893,6 +896,7 @@ worm way
 worm ways
 wormway
 wormways
+wq
 wraith
 wraiths
 wreath of purity
@@ -901,7 +905,30 @@ yarnaby
 zango
 zaza
 zylotol
-pale oils
-silk ability
-silk abilities
-wq
+taste of pharloom
+tastes of pharloom
+unraveled
+voided
+black thread
+upgrade the needle
+upgrade needle
+craft metals
+bile haven
+weapon upgrade
+weapon upgrades
+wall jumping
+walljumping
+nail level
+weapon level
+polip
+lava
+spear
+pitrefid ducks
+dj
+upgrading the needle
+upgrading the nail
+upgrading the weapon
+terminus
+pick 3 hearts
+melodys
+chef

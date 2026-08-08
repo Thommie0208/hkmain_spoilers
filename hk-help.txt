@@ -7,6 +7,7 @@ abyss
 abyss shriek
 abyss shrieks
 acid
+all binding
 all bindings
 aluba
 alubas
@@ -91,11 +92,13 @@ cloth
 cof
 coiled
 coiled nail
+collecter
 collector
 collector map
 collector's map
 collectors map
 collo
+colloseum
 collosseum
 collosseums
 colo
@@ -184,6 +187,7 @@ dream nailed
 dream no more
 dream realm
 dream rematch
+dream shield
 dream tree
 dream trees
 dream version
@@ -197,6 +201,7 @@ dreamgate
 dreamgates
 dreamnail
 dreamshield
+dreamwielder
 dryya
 dung
 dung defender
@@ -222,6 +227,7 @@ essences
 eternal emilitia
 eternal ordeal
 etv
+every binding
 every ending
 extra mask
 extra masks
@@ -422,6 +428,7 @@ ismas
 ismas tear
 jiji
 jinn
+joni
 joni blessing
 joni's blessing
 jonis blessing
@@ -448,6 +455,7 @@ kings station
 kingsmould
 kingsmoulds
 kingsoul
+king’s brand
 lance sentries
 lance sentry
 land of storm
@@ -682,6 +690,7 @@ radience
 radience
 radient
 radient
+radkoth
 raidiance
 rancid egg
 rancid eggs
@@ -698,6 +707,7 @@ salbura
 salubra
 salubra blessing
 salubra's blessing
+salubras
 sanctum
 sbody
 sealed sibling
@@ -830,6 +840,7 @@ traitor
 traitor lord
 tram
 tram pass
+trams
 tramway
 trial
 trial of fool
@@ -938,14 +949,17 @@ zmer
 zote
 zote the mighty
 zotes
-dreamwielder
-collecter
-radkoth
-dream shield
-salubras
-king’s brand
-joni
-all binding
-every binding
-colloseum
-trams
+weaverlings
+downward dark
+any rad
+clawless
+down dark
+greatslash
+dashslash
+cycloneslash
+troupe
+upgrade the nail
+marmus
+spin attack
+seals
+seal
