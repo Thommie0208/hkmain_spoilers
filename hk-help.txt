@@ -17,6 +17,7 @@ an ending
 ancient basin
 another ending
 any ending
+any rad
 anyrad
 arcane egg
 arcane eggs
@@ -87,6 +88,7 @@ city of tears
 city storeroom
 city storerooms
 claw
+clawless
 cliffs
 cloth
 cof
@@ -131,6 +133,7 @@ crystal peaks
 crystallised husk
 crystallised husks
 cyclone slash
+cycloneslash
 d dark
 d-dark
 dash
@@ -139,6 +142,7 @@ dash slash
 dashes
 dashing
 dashmaster
+dashslash
 ddark
 ddive
 death loodle
@@ -175,7 +179,9 @@ dnm
 double dash
 double focus
 double jump
+down dark
 downslam
+downward dark
 dream boss
 dream boss
 dream bosses
@@ -315,6 +321,7 @@ great husk sentries
 great husk sentry
 great nailsage sly
 great slash
+greatslash
 green path
 greenpath
 grey mourner
@@ -507,6 +514,7 @@ map and quill
 mark of pride
 markoth
 marmu
+marmus
 mask fragment
 mask fragments
 mask maker
@@ -676,7 +684,6 @@ quickslash
 quill
 quirrel
 r04
-r1
 r4
 r5
 r5ab
@@ -710,8 +717,10 @@ salubra's blessing
 salubras
 sanctum
 sbody
+seal
 sealed sibling
 sealed siblings
+seals
 seer
 shade
 shade cloak
@@ -771,6 +780,7 @@ spell builds
 spell twister
 spell upgrade
 spells
+spin attack
 spiny husk
 spiny husks
 spire
@@ -848,6 +858,7 @@ trial of the conqueror
 trial of the fool
 trial of the warrior
 trials
+troupe
 troupe master
 troupe master grimm
 true ending
@@ -864,6 +875,7 @@ unn
 unnamed moth
 uoma
 upgrade nail
+upgrade the nail
 upgraded my nail
 upgraded nail
 upgrading nail
@@ -915,6 +927,7 @@ wd
 weathered mask
 weaver
 weaver song
+weaverlings
 weavers
 weaversong
 which ending
@@ -949,17 +962,23 @@ zmer
 zote
 zote the mighty
 zotes
-weaverlings
-downward dark
-any rad
-clawless
-down dark
-greatslash
-dashslash
-cycloneslash
-troupe
-upgrade the nail
-marmus
-spin attack
-seals
-seal
+water ways
+king's mark
+epogo
+shrogo
+shrogos
+nail masters
+sc
+tamer
+what nail
+passing of the age
+first ending
+second ending
+third endings
+fourth ending
+fifth ending
+1st ending
+2nd ending
+3rd ending
+4th ending
+5th ending

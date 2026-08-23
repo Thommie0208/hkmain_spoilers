@@ -88,9 +88,11 @@ bellway
 berry picking
 bestiary
 bestiray
+bile haven
 bile water
 bilehaven
 bilewater
+black thread
 blasted step
 blasted steps
 bola
@@ -134,6 +136,7 @@ chapter 3
 chapter three
 charge attack
 charged attack
+chef
 choir clapper
 choir cloak
 choral
@@ -190,6 +193,7 @@ courier's
 couriers
 cradle
 craft metal
+craft metals
 crafting kit
 crafting kits
 craftmetal
@@ -244,6 +248,7 @@ delver’s drill
 dice
 disgraced chef
 diving bell
+dj
 djump
 double jump
 double jump
@@ -425,6 +430,7 @@ last dive
 last judge
 last judges
 last judge’s
+lava
 lavalarga
 lavalug
 lifeblood
@@ -465,6 +471,7 @@ mawling
 melodie
 melodies
 melody
+melodys
 mem locks
 memento
 mementos
@@ -513,6 +520,7 @@ multibinder
 mushroom
 my missing brother
 my missing courier
+nail level
 nail upgrade
 needle art
 needle level
@@ -550,6 +558,7 @@ pharlid
 pharloom crown
 pharlooms crown
 pharloom’s crown
+pick 3 hearts
 pickled muckmaggot
 pilby
 pilgrim
@@ -565,6 +574,7 @@ pinmaster oil
 pinmasters oil
 pinmaster’s oil
 pinstress
+pitrefid ducks
 plasmid
 plasmidas
 plasmified
@@ -572,6 +582,7 @@ plasmium
 plasmium
 plasmium phial
 plinney
+polip
 pollen heart
 pollip
 pollip
@@ -735,6 +746,7 @@ songclaves
 songclave’s
 soul and silk
 soul snare
+spear
 spell seeker
 spells
 spider string
@@ -778,6 +790,9 @@ sylphsong
 tacks
 tallcraw
 tarmite
+taste of pharloom
+tastes of pharloom
+terminus
 the dark below
 the dock
 the docks
@@ -829,9 +844,15 @@ twisted bud
 twisted child
 underwork
 underworks
+unraveled
 unravelled
 upgrade nail
+upgrade needle
 upgrade the nail
+upgrade the needle
+upgrading the nail
+upgrading the needle
+upgrading the weapon
 varga
 vaultkeeper
 vaultkeeper melody
@@ -848,6 +869,7 @@ vintage nectar
 vog
 void
 void mass
+voided
 voidmass
 volatile flintbeetles
 volt filament
@@ -860,13 +882,18 @@ voltwyrm
 wall climb
 wall cling
 wall jump
+wall jumping
 wallclimb
 walljump
+walljumping
 wanderer
 wanderers
 wanderer’s
 warding bell
 watcher at the edge
+weapon level
+weapon upgrade
+weapon upgrades
 weave nest
 weave nests
 weavelight
@@ -905,30 +932,14 @@ yarnaby
 zango
 zaza
 zylotol
-taste of pharloom
-tastes of pharloom
-unraveled
-voided
-black thread
-upgrade the needle
-upgrade needle
-craft metals
-bile haven
-weapon upgrade
-weapon upgrades
-wall jumping
-walljumping
-nail level
-weapon level
-polip
-lava
-spear
-pitrefid ducks
-dj
-upgrading the needle
-upgrading the nail
-upgrading the weapon
-terminus
-pick 3 hearts
-melodys
-chef
+upgrade your needle
+father of flame
+silk soared
+steel mode
+organ
+organs
+bile
+kidnapped
+kidnapped
+bell heart
+evo
