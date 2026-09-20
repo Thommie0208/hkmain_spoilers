@@ -1,3 +1,8 @@
+1st ending
+2nd ending
+3rd ending
+4th ending
+5th ending
 a spell
 abbys
 abs rad
@@ -228,6 +233,7 @@ endings
 enraged guardian
 entombed husk
 entombed husks
+epogo
 essence
 essences
 eternal emilitia
@@ -241,6 +247,7 @@ failed champ
 failed champion
 false knight
 fc
+fifth ending
 fight the hollow knight
 fight the sun
 fight, the sun
@@ -249,6 +256,7 @@ fighting, the sun
 fighting? the sun
 fireball
 fireballs
+first ending
 flower
 flower broke
 flower broken
@@ -271,6 +279,7 @@ forgotten crossroad
 forgotten crossroads
 fotf
 fought the sun
+fourth ending
 fq
 fragile
 fragile greed
@@ -450,6 +459,7 @@ king soul
 king station
 king's brand
 king's idol
+king's mark
 king's pass
 king's station
 kingdom edge
@@ -570,6 +580,7 @@ nail 4
 nail art
 nail arts
 nail master
+nail masters
 nail sage
 nail upgrade
 nail upgraded
@@ -644,6 +655,7 @@ pantheon of hallownest
 pantheon of the knight
 pantheon of the sage
 pantheons
+passing of the age
 path of pain
 path of the pain
 peaks
@@ -717,10 +729,12 @@ salubra's blessing
 salubras
 sanctum
 sbody
+sc
 seal
 sealed sibling
 sealed siblings
 seals
+second ending
 seer
 shade
 shade cloak
@@ -749,6 +763,8 @@ shopkeeper's key
 shriek
 shrieked
 shrieks
+shrogo
+shrogos
 shrumal ogre
 shrumal ogres
 shrumal warrior
@@ -815,6 +831,7 @@ super dash
 t1
 t2
 t3
+tamer
 teacher archive
 teacher archives
 teacher's archive
@@ -837,6 +854,7 @@ the mighty
 the sisters
 the spell
 the tear
+third endings
 thk
 thorns
 thorns of agony
@@ -919,6 +937,7 @@ warrior dreams
 watcher knight
 watcher knight
 watcher knights
+water ways
 waterway
 waterways
 wayward
@@ -930,6 +949,7 @@ weaver song
 weaverlings
 weavers
 weaversong
+what nail
 which ending
 whispering root
 white defender
@@ -962,23 +982,17 @@ zmer
 zote
 zote the mighty
 zotes
-water ways
-king's mark
-epogo
-shrogo
-shrogos
-nail masters
-sc
-tamer
-what nail
-passing of the age
-first ending
-second ending
-third endings
-fourth ending
-fifth ending
-1st ending
-2nd ending
-3rd ending
-4th ending
-5th ending
+fight? the sun
+sister's of battle
+methanorphosis
+anyradiance
+watcher
+tof
+dd
+fungel
+upgrade your nail
+kedge
+hornets
+rabono
+dream nails
+nosket

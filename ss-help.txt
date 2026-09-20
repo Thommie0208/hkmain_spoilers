@@ -73,6 +73,7 @@ bell beast’s
 bell bell eater’s
 bell eater
 bell eaters
+bell heart
 bell hermit
 bell home
 bellbearer
@@ -88,6 +89,7 @@ bellway
 berry picking
 bestiary
 bestiray
+bile
 bile haven
 bile water
 bilehaven
@@ -286,6 +288,7 @@ envoy
 eva
 everbloom
 every ending
+evo
 exaust organ
 exhaust organ
 far fields
@@ -293,6 +296,7 @@ farfields
 farsight
 fastest in pharloom
 fatal resolve
+father of flame
 father of the flame
 father of the flames
 father of the flame’s
@@ -420,6 +424,8 @@ karmlita
 khann
 khanns
 khann’s
+kidnapped
+kidnapped
 kilik
 kratt
 lace
@@ -534,6 +540,8 @@ nuu
 nyleth
 nyleths
 nyleth’s
+organ
+organs
 pain anguish and misery
 pain anguish, and misery
 pain, anguish and misery
@@ -692,6 +700,7 @@ silk skill
 silk skills
 silk snipper
 silk soar
+silk soared
 silk spear
 silk speed
 silk spool
@@ -766,6 +775,7 @@ squatcraw
 squirrm
 squit
 steel heart
+steel mode
 steel seer zi
 steel soul
 steel spines
@@ -850,6 +860,7 @@ upgrade nail
 upgrade needle
 upgrade the nail
 upgrade the needle
+upgrade your needle
 upgrading the nail
 upgrading the needle
 upgrading the weapon
@@ -932,14 +943,17 @@ yarnaby
 zango
 zaza
 zylotol
-upgrade your needle
-father of flame
-silk soared
-steel mode
-organ
-organs
-bile
-kidnapped
-kidnapped
-bell heart
-evo
+the curse
+nail upgrades
+volt
+damage upgrade
+crestslop
+pale monarch
+act third
+gromlings
+baby hornet
+soar
+steal soul
+pail oil
+high hall
+chapel
