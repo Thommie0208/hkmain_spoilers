@@ -20,6 +20,7 @@ act5
 act_3
 after the fall
 aknid
+alchemist
 alchemist assistant
 alchemists assistant
 alchemist’s assistant
@@ -49,11 +50,13 @@ ass jims
 ass jim’s
 awaiting the end
 baby hornet
+ballador
 ballow
 balm for the wounded
 barbed bracelet
 barnacle
 barnak
+base ending
 beast crest
 beast fly
 beast in the bells
@@ -64,7 +67,9 @@ beastfly
 beastflys
 beastfly’s
 beastiary
+beastling
 beastling call
+beastlings
 beasts crest
 beast’s crest
 bell beast
@@ -88,6 +93,7 @@ bellhome
 bellvein
 bellway
 bellway
+benjin
 berry picking
 bestiary
 bestiray
@@ -114,6 +120,7 @@ brood mother
 brood mothers
 brood mother’s
 broodfeast
+broodling
 broodmother
 broodmother eye
 broodmothers
@@ -227,6 +234,7 @@ cross-stitch
 crossstitch
 crow
 crown fragment
+crull
 crust king
 crustnut
 curier rasher
@@ -307,12 +315,14 @@ father of the flames
 father of the flame’s
 fay
 faydown
+fayforn
 fertid
 fight judge
 fighting judge
 filament
 final judge
 fine pins
+first shrine
 first sinner
 first sinners
 first sinner’s
@@ -343,9 +353,12 @@ furm
 garamond
 garb of the pilgrims
 garmond
+get capttured
+getting captured
 gilly
 glide
 gms
+got captured
 gourmand
 grand gate
 grand gate
@@ -385,12 +398,14 @@ heart of the woods
 herald
 heretic
 heretic key
+hermit
 hermit soul
 hermit's soul
 hermits soul
 hero call
 heros call
 hero’s call
+hhg
 high hall
 high halls
 hivesteel
@@ -417,7 +432,9 @@ indolent
 indolent key
 infestation operation
 injector band
+isamor
 journal
+jubilana
 juror
 karak
 karaka
@@ -473,6 +490,7 @@ magnetite dice
 maiden soul
 maiden's soul
 maidens soul
+map lady
 marrow
 marrowmaw
 mask maker
@@ -527,6 +545,11 @@ mr mushroom
 mr. mushroom
 mr.mushroom
 mt fay
+muck
+muckmaggots
+muckroach
+muckroaches
+muckwater
 multi binder
 multibind
 multibinder
@@ -538,6 +561,7 @@ nail upgrade
 nail upgrades
 needle art
 needle level
+needle sharpness
 needle strike
 needle upgrade
 needle upgrade
@@ -555,6 +579,7 @@ pain anguish and misery
 pain anguish, and misery
 pain, anguish and misery
 pain, anguish, and misery
+pale lake
 pale monarch
 pale nails
 pale oil
@@ -608,6 +633,7 @@ pollip heart
 pollip hearts
 pollip pouch
 poshanka
+prince
 pristine core
 psalm cylinder
 psalm cylinders
@@ -643,6 +669,7 @@ rune harp
 rune harps
 rune rage
 runerage
+runt
 runtfeast
 sands
 sawblade
@@ -865,6 +892,7 @@ true ending
 ttrobbio
 twisted bud
 twisted child
+under works
 underwork
 underworks
 unraveled
@@ -957,31 +985,21 @@ yarnaby
 zango
 zaza
 zylotol
-pale lake
-hhg
-under works
-base ending
-needle sharpness
-muckroaches
-muckroach
-muck
-get capttured
-getting captured
-got captured
-first shrine
-muckmaggots
-muckwater
-jubilana
-runt
-broodling
-benjin
-crull
-beastlings
-ballador
-fayforn
-isamor
-hermit
-beastling
-map lady
-prince
-alchemist
+sprintmaster
+silk storm
+biowater
+bellveins
+bell vein
+bell veins
+root
+petrified
+purified
+taunt
+taunting
+tyrant
+tyrent
+mossgrubs
+silkfly
+silk fly
+silkflies
+silk flies
