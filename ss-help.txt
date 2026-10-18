@@ -12,6 +12,7 @@ act 4
 act 5
 act iii
 act iii
+act third
 act three
 act3
 act4
@@ -47,6 +48,7 @@ ass jim
 ass jims
 ass jim’s
 awaiting the end
+baby hornet
 ballow
 balm for the wounded
 barbed bracelet
@@ -133,6 +135,7 @@ carmelitas
 carmelita’s
 cauldron
 ch3
+chapel
 chapel maid
 chapter 3
 chapter three
@@ -218,6 +221,7 @@ creige
 crest
 crest of the beast
 crests
+crestslop
 cross stitch
 cross-stitch
 crossstitch
@@ -231,6 +235,7 @@ curve claw
 curve sickle
 curveclaw
 curvesickle
+damage upgrade
 dancers
 dark hearts
 dark hearts
@@ -366,6 +371,7 @@ groals
 groal’s
 grom
 gromling
+gromlings
 gron
 gtop
 gurr
@@ -385,6 +391,7 @@ hermits soul
 hero call
 heros call
 hero’s call
+high hall
 high halls
 hivesteel
 hoker
@@ -528,6 +535,7 @@ my missing brother
 my missing courier
 nail level
 nail upgrade
+nail upgrades
 needle art
 needle level
 needle strike
@@ -542,10 +550,12 @@ nyleths
 nyleth’s
 organ
 organs
+pail oil
 pain anguish and misery
 pain anguish, and misery
 pain, anguish and misery
 pain, anguish, and misery
+pale monarch
 pale nails
 pale oil
 pale oils
@@ -750,6 +760,7 @@ snare ending
 snare setter
 snared silk
 snitch pick
+soar
 songclave
 songclaves
 songclave’s
@@ -774,6 +785,7 @@ sprinting
 squatcraw
 squirrm
 squit
+steal soul
 steel heart
 steel mode
 steel seer zi
@@ -803,6 +815,7 @@ tarmite
 taste of pharloom
 tastes of pharloom
 terminus
+the curse
 the dark below
 the dock
 the docks
@@ -883,6 +896,7 @@ void mass
 voided
 voidmass
 volatile flintbeetles
+volt
 volt filament
 volt vessel
 volt vessels
@@ -943,17 +957,31 @@ yarnaby
 zango
 zaza
 zylotol
-the curse
-nail upgrades
-volt
-damage upgrade
-crestslop
-pale monarch
-act third
-gromlings
-baby hornet
-soar
-steal soul
-pail oil
-high hall
-chapel
+pale lake
+hhg
+under works
+base ending
+needle sharpness
+muckroaches
+muckroach
+muck
+get capttured
+getting captured
+got captured
+first shrine
+muckmaggots
+muckwater
+jubilana
+runt
+broodling
+benjin
+crull
+beastlings
+ballador
+fayforn
+isamor
+hermit
+beastling
+map lady
+prince
+alchemist

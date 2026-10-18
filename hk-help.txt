@@ -24,6 +24,7 @@ another ending
 any ending
 any rad
 anyrad
+anyradiance
 arcane egg
 arcane eggs
 armoured squit
@@ -148,6 +149,7 @@ dashes
 dashing
 dashmaster
 dashslash
+dd
 ddark
 ddive
 death loodle
@@ -195,6 +197,7 @@ dream fight
 dream gate
 dream nail
 dream nailed
+dream nails
 dream no more
 dream realm
 dream rematch
@@ -251,6 +254,7 @@ fifth ending
 fight the hollow knight
 fight the sun
 fight, the sun
+fight? the sun
 fighting the sun
 fighting, the sun
 fighting? the sun
@@ -288,6 +292,7 @@ fragile strength
 fungal
 fungal waste
 fungal wastes
+fungel
 fungified husk
 fungified husks
 fungling
@@ -399,6 +404,7 @@ hopping zotelings
 hornet
 hornet protector
 hornet sentinel
+hornets
 hot spring
 hotspring
 house of gods
@@ -451,6 +457,7 @@ jonis blessing
 journal
 junk pit
 junkyard
+kedge
 king brand
 king grimm
 king idol
@@ -542,6 +549,7 @@ max nail
 mender bug
 menderbug
 metamorphosis
+methanorphosis
 metro
 midwife
 millibelle
@@ -602,6 +610,7 @@ no eyes
 nonsenf
 nonsenf
 nosk
+nosket
 notch
 notches
 nymm
@@ -699,6 +708,7 @@ r04
 r4
 r5
 r5ab
+rabono
 radabsrad
 radhog
 radiace
@@ -773,6 +783,7 @@ shrumeling
 shrumelings
 simple key
 sister of battle
+sister's of battle
 sisters of battle
 slobbering husk
 slobbering husks
@@ -863,6 +874,7 @@ tiktiks
 tiso
 tl
 tmg
+tof
 tower of love
 traitor
 traitor lord
@@ -870,7 +882,6 @@ tram
 tram pass
 trams
 tramway
-trial
 trial of fool
 trial of the conqueror
 trial of the fool
@@ -894,6 +905,7 @@ unnamed moth
 uoma
 upgrade nail
 upgrade the nail
+upgrade your nail
 upgraded my nail
 upgraded nail
 upgrading nail
@@ -934,6 +946,7 @@ wanderers journal
 wandering husk
 warrior dream
 warrior dreams
+watcher
 watcher knight
 watcher knight
 watcher knights
@@ -982,17 +995,13 @@ zmer
 zote
 zote the mighty
 zotes
-fight? the sun
-sister's of battle
-methanorphosis
-anyradiance
-watcher
-tof
-dd
-fungel
-upgrade your nail
-kedge
-hornets
-rabono
-dream nails
-nosket
+sword rain
+ground spikes
+champion of fools
+fireballed
+soul snatcher
+buzzsaw
+buzzsaws
+saws
+coloseum
+how many masks
