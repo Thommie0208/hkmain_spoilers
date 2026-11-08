@@ -8,15 +8,10 @@ a3
 abyss
 abysse
 act 3
-act 4
-act 5
-act iii
 act iii
 act third
 act three
 act3
-act4
-act5
 act_3
 after the fall
 aknid
@@ -83,6 +78,8 @@ bell eaters
 bell heart
 bell hermit
 bell home
+bell vein
+bell veins
 bellbearer
 bellbeast
 bellhart
@@ -91,6 +88,7 @@ bellhart’s
 bellheart
 bellhome
 bellvein
+bellveins
 bellway
 bellway
 benjin
@@ -102,6 +100,7 @@ bile haven
 bile water
 bilehaven
 bilewater
+biowater
 black thread
 blasted step
 blasted steps
@@ -536,6 +535,7 @@ mossberriws
 mossberry
 mossberry stew
 mossgrub
+mossgrubs
 mosshome
 mossmir
 mother silk
@@ -594,6 +594,7 @@ passing of the age
 pavo
 pebb
 penitent
+petrified
 phantom
 phantoms
 phantom’s
@@ -637,6 +638,7 @@ prince
 pristine core
 psalm cylinder
 psalm cylinders
+purified
 putrified
 putrified ducts
 queens egg
@@ -661,6 +663,7 @@ roach
 roach guts
 roach guts
 roaches
+root
 rosary cannon
 rosary gun
 ruined chapel
@@ -727,6 +730,8 @@ silk and soul
 silk cannon
 silk eater
 silk eaters
+silk flies
+silk fly
 silk gun
 silk heart
 silk hearts
@@ -742,9 +747,12 @@ silk spear
 silk speed
 silk spool
 silk spools
+silk storm
 silk-spear
 silkeater
 silkeaters
+silkflies
+silkfly
 silkheart
 silkshot
 silksoar
@@ -809,6 +817,7 @@ spool frags
 spool upgrade
 sprint
 sprinting
+sprintmaster
 squatcraw
 squirrm
 squit
@@ -841,6 +850,8 @@ tallcraw
 tarmite
 taste of pharloom
 tastes of pharloom
+taunt
+taunting
 terminus
 the curse
 the dark below
@@ -892,6 +903,8 @@ true ending
 ttrobbio
 twisted bud
 twisted child
+tyrant
+tyrent
 under works
 underwork
 underworks
@@ -985,21 +998,32 @@ yarnaby
 zango
 zaza
 zylotol
-sprintmaster
-silk storm
-biowater
-bellveins
-bell vein
-bell veins
-root
-petrified
-purified
-taunt
-taunting
-tyrant
-tyrent
-mossgrubs
-silkfly
-silk fly
-silkflies
-silk flies
+shining needle
+steel needle
+phial
+brew
+nail art
+statuette
+statuete
+icon of hope
+missing brother
+wandering merchant
+lost merchant
+infestation
+trail's end
+final audience
+final audiance
+hero's call
+flexile spines
+flintbeetles
+alchemy
+crawbug
+wailing mother
+lifesaving bridge
+queen's egg
+queen's eggs
+survivor's camp
+vassal lost
+vassal loss
+weaver
+skarsinger

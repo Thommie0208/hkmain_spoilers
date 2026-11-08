@@ -11,6 +11,7 @@ absrad
 abyss
 abyss shriek
 abyss shrieks
+abyssal
 acid
 all binding
 all bindings
@@ -70,6 +71,7 @@ bluggsac
 bluggsacs
 booflies
 boofly
+boundless infinity
 bretta
 broken flower
 broken vessel
@@ -128,6 +130,7 @@ cowardly husks
 cp
 crawlid
 crawlids
+crest
 cristal
 crossroad
 crossroads
@@ -387,6 +390,7 @@ heavy sentries
 heavy sentry
 hegemol
 hera
+herald
 hermit
 herra
 herrah
@@ -535,6 +539,7 @@ mantis warrior
 mantis youth
 mantises
 map and quill
+marissa
 mark of pride
 markoth
 marmu
@@ -735,6 +740,7 @@ relics
 resting ground
 resting grounds
 revek
+root
 royal retainer
 royal waterway
 royal waterways
@@ -811,7 +817,6 @@ soul tyrant
 soul warrior
 soulmaster
 spell build
-spell build
 spell builds
 spell twister
 spell upgrade
@@ -886,12 +891,15 @@ tl
 tmg
 tof
 tower of love
+trail 1
 traitor
 traitor lord
 tram
 tram pass
 trams
 tramway
+trial 2
+trial 3
 trial of fool
 trial of the conqueror
 trial of the fool
@@ -932,6 +940,7 @@ vessels
 vfk
 violent husk
 violent husks
+vk
 void
 void heart
 void idol
@@ -1005,13 +1014,30 @@ zmer
 zote
 zote the mighty
 zotes
-trail 1
-trial 2
-trial 3
-boundless infinity
-herald
-abyssal
-vk
-root
-crest
-marissa
+upgrade spell
+den
+sentinel
+sharpshadow
+gruz
+ground smash
+ground pound
+down spell
+stagways
+r1ab
+r2ab
+r3ab
+r4ab
+cyclone
+dream world
+asckoth
+ascoth
+sporeshroom
+trial of the fool
+cross roads
+upgrade ur nail
+first trial
+second trial
+third trial
+uninfect
+disinfect
+awakened nail
