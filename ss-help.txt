@@ -1,7 +1,6 @@
 2x jump
 3 acts
 3rd act
-a lifesaving bridge
 a.c.t 3
 a.c.t. 3
 a3
@@ -16,27 +15,20 @@ act_3
 after the fall
 aknid
 alchemist
-alchemist assistant
 alchemists assistant
 alchemist’s assistant
+alchemy
 an ending
-an ending
-an icon of hope
 anklet
 anklets
 ant area
 ant place
 apostate
-apostate key
 arcane egg
 arcane eggs
 architect
-architect
-architect melody
 architects
-architects melody
 architect’s
-architect’s melody
 ascendant grip
 ascendants grip
 ascendant’s grip
@@ -52,7 +44,6 @@ barbed bracelet
 barnacle
 barnak
 base ending
-beast crest
 beast fly
 beast in the bells
 beast shard
@@ -63,20 +54,14 @@ beastflys
 beastfly’s
 beastiary
 beastling
-beastling call
 beastlings
-beasts crest
-beast’s crest
 bell beast
-bell beast
-bell beastling
 bell beasts
 bell beast’s
 bell bell eater’s
 bell eater
 bell eaters
 bell heart
-bell hermit
 bell home
 bell vein
 bell veins
@@ -90,14 +75,11 @@ bellhome
 bellvein
 bellveins
 bellway
-bellway
 benjin
 berry picking
 bestiary
 bestiray
 bile
-bile haven
-bile water
 bilehaven
 bilewater
 biowater
@@ -114,6 +96,7 @@ bonebottom
 bonegrave
 boomerang
 boomerangs
+brew
 brightvein
 brood mother
 brood mothers
@@ -121,9 +104,7 @@ brood mother’s
 broodfeast
 broodling
 broodmother
-broodmother eye
 broodmothers
-broodmothers eye
 broodmother’s
 brushfilt
 brushflit
@@ -142,7 +123,6 @@ carmelita’s
 cauldron
 ch3
 chapel
-chapel maid
 chapter 3
 chapter three
 charge attack
@@ -151,39 +131,24 @@ chef
 choir clapper
 choir cloak
 choral
-choral chamber
-choral chambers
-choral chambers
-choral commandment
-choral commandments
 choristor
 chorus
 circlet
 citadel
 ckk
 claw
-claw maiden
-claw maidens
-claw mirror
-claw mirrors
 clawline
 clawmaiden
 clawmaidens
 cling grip
 cloaks of the choir
-clover dancers
 cog
-cog core
-cog work
 cogflies
 cogfly
 cogflys
 cogfly’s
 cogheart
 cogwork
-cogwork clapper
-cogwork core
-cogwork wheel
 compass
 conch cutter
 conchcutter
@@ -192,14 +157,9 @@ conchfly
 conchflys
 conchfly’s
 conductor
-conductor melody
-conductors melody
-conductor’s melody
 coral
-coral tower
 corals
 courier
-courier swag
 courier's
 couriers
 cradle
@@ -208,24 +168,17 @@ craft metals
 crafting kit
 crafting kits
 craftmetal
-craftmetal
 craftmetals
 craggler
 cragglite
 craw
-craw
-craw father
-craw fathers
-craw father’s
-craw lake
-crawbug clearing
+crawbug
 crawfather
 crawfathers
 crawfather’s
 craws
 creige
 crest
-crest of the beast
 crests
 crestslop
 cross stitch
@@ -236,15 +189,12 @@ crown fragment
 crull
 crust king
 crustnut
-curier rasher
 cursed
-curve claw
 curve sickle
 curveclaw
 curvesickle
 damage upgrade
 dancers
-dark hearts
 dark hearts
 dark mirror
 dash
@@ -256,19 +206,13 @@ dead bugs purse
 deep docks
 deliveries
 delivery
-delver drill
-delvers drill
-delver’s drill
 dice
-disgraced chef
 diving bell
 dj
 djump
 double jump
-double jump
 double jumping
 double-jump
-doublejump
 doublejump
 drapefly
 drapelord
@@ -281,8 +225,6 @@ drifter’s
 driftlin
 drill
 druid
-druid eye
-druid eyes
 druids eye
 druids eyes
 druid’s eye
@@ -294,15 +236,12 @@ egg of flealia
 elegy of the deep
 encrusted heart
 endings
-endings
 enter the dream
 envoy
 eva
 everbloom
 every ending
 evo
-exaust organ
-exhaust organ
 far fields
 farfields
 farsight
@@ -319,21 +258,23 @@ fertid
 fight judge
 fighting judge
 filament
+final audiance
+final audience
 final judge
 fine pins
 first shrine
-first sinner
 first sinners
 first sinner’s
 five bells
 flea
-flea brew
 fleas
 fleatopia
 flea’s
 flexible spines
+flexile spines
 flick
 flintbeetle
+flintbeetles
 flintflame
 flintgem
 flintslate
@@ -345,7 +286,6 @@ forebrother
 forebrothers
 forge daughter
 fotf
-fourth chorus
 fractured mask
 frey
 furm
@@ -360,18 +300,13 @@ gms
 got captured
 gourmand
 grand gate
-grand gate
-grand mother silk
 grandma silk
 grandmother silk
 granny silk
 grapple
-great taste of pharloom
 green dude
 green guy
-green prince
 grey moor
-greymoor
 greymoor
 greymoore
 greymore
@@ -396,12 +331,11 @@ heart of the wild
 heart of the woods
 herald
 heretic
-heretic key
 hermit
-hermit soul
 hermit's soul
 hermits soul
 hero call
+hero's call
 heros call
 hero’s call
 hhg
@@ -411,25 +345,16 @@ hivesteel
 hoker
 hooker
 horn fragment
-hornet statuette
 https://mapgenie.io/hollow-knight-silksong/maps/pharloom
-huge flea
 hunter
-hunter heart
-hunter journal
 hunters
-hunters heart
-hunters journal
-hunters march
 hunter’s
-hunter’s heart
-hunter’s journal
 huntress
+icon of hope
 ignim
 in the dream
 indolent
-indolent key
-infestation operation
+infestation
 injector band
 isamor
 journal
@@ -448,7 +373,6 @@ khann
 khanns
 khann’s
 kidnapped
-kidnapped
 kilik
 kratt
 lace
@@ -463,6 +387,7 @@ lava
 lavalarga
 lavalug
 lifeblood
+lifesaving bridge
 lifeseed
 lj
 ll
@@ -473,7 +398,7 @@ lockets
 loddie
 longclaw
 longpin
-lost lace
+lost merchant
 lugoli
 lugolis
 lugoli’s
@@ -485,7 +410,6 @@ maggot’s
 magma bell
 magnet
 magnetite brooch
-magnetite dice
 maiden soul
 maiden's soul
 maidens soul
@@ -510,8 +434,8 @@ memorium
 memory crystal
 mergwin
 minister
+missing brother
 mist
-mister mushroom
 mistress of the needle
 mite
 mitemother
@@ -524,8 +448,6 @@ moorwing’s
 mooshka
 mort
 mortician
-moss chapel
-moss druid
 moss grotto
 moss home
 moss mother
@@ -533,18 +455,13 @@ moss mothers
 moss mother’s
 mossberriws
 mossberry
-mossberry stew
 mossgrub
 mossgrubs
 mosshome
 mossmir
 mother silk
 mothersilk
-mount fay
-mr mushroom
-mr. mushroom
 mr.mushroom
-mt fay
 muck
 muckmaggots
 muckroach
@@ -554,8 +471,7 @@ multi binder
 multibind
 multibinder
 mushroom
-my missing brother
-my missing courier
+nail art
 nail level
 nail upgrade
 nail upgrades
@@ -563,7 +479,6 @@ needle art
 needle level
 needle sharpness
 needle strike
-needle upgrade
 needle upgrade
 needle upgrades
 needle upgrading
@@ -602,19 +517,17 @@ pharlid
 pharloom crown
 pharlooms crown
 pharloom’s crown
+phial
 pick 3 hearts
 pickled muckmaggot
 pilby
 pilgrim
-pilgrim rest
-pilgrim shawl
 pilgrims rest
 pilgrim’s rest
 pill
 pimpillo
 pin badge
 pinmaster
-pinmaster oil
 pinmasters oil
 pinmaster’s oil
 pinstress
@@ -623,16 +536,10 @@ plasmid
 plasmidas
 plasmified
 plasmium
-plasmium
-plasmium phial
 plinney
 polip
 pollen heart
 pollip
-pollip
-pollip heart
-pollip hearts
-pollip pouch
 poshanka
 prince
 pristine core
@@ -640,7 +547,8 @@ psalm cylinder
 psalm cylinders
 purified
 putrified
-putrified ducts
+queen's egg
+queen's eggs
 queens egg
 quick sling
 quill
@@ -658,15 +566,11 @@ return to pharloom
 rhinoground
 rhinogrund
 rite of rebirth
-rite of the pollip
 roach
-roach guts
-roach guts
 roaches
 root
 rosary cannon
 rosary gun
-ruined chapel
 ruined tool
 rune harp
 rune harps
@@ -680,11 +584,7 @@ sawtooth
 scrounge
 scuttlebrace
 seamstress
-seared organ
-seared organs
 second act
-second sentinel
-second sentinel
 second sentinels
 second sentinel’s
 seeker soul
@@ -697,10 +597,8 @@ seths
 seth’s
 shakira
 shakra
-shakra rings
 shakras
 shakra’s
-shakra’s rings
 shaman
 shamans
 shaman’s
@@ -718,8 +616,7 @@ shellwood
 sherma
 shermas
 sherma’s
-shredded organ
-shredded organs
+shining needle
 shrine guardian
 signis
 silent halls
@@ -741,9 +638,7 @@ silk shot
 silk skill
 silk skills
 silk snipper
-silk soar
 silk soared
-silk spear
 silk speed
 silk spool
 silk spools
@@ -765,23 +660,18 @@ silver bells
 simple key
 simple keys
 sinner
-sinner road
 sinner's road
 sinners road
-sister splinter
 sister splinters
 sister splinter’s
-skarr
 skarr
 skarrgard
 skarrlid
 skarrsinger
 skarrwing
-skewered organ
-skewered organs
+skarsinger
 skull brute
 skull scuttler
-skull tyrant
 skull tyrants
 skull tyrant’s
 skull wing
@@ -821,13 +711,15 @@ sprintmaster
 squatcraw
 squirrm
 squit
+statuete
+statuette
 steal soul
 steel heart
 steel mode
+steel needle
 steel seer zi
 steel soul
 steel spines
-steelsoul
 steelsoul
 stilkin
 sting shard
@@ -842,8 +734,8 @@ super jump
 surgeon
 surgeon's
 surgeons
+survivor's camp
 swift step
-sylphsong
 sylphsong
 tacks
 tallcraw
@@ -858,17 +750,10 @@ the dark below
 the dock
 the docks
 the forum
-the lost fleas
-the lost merchant
 the lost merchent
-the mist
 the old hearts
 the outcast
-the slab
 the stage
-the terrible tyrant
-the wailing mother
-the wandering merchant
 thief mark
 thiefs mark
 thief’s mark
@@ -889,8 +774,8 @@ tipp
 tlj
 tool pouch
 tool pouches
-tormented trobbio
 trail end
+trail's end
 trails end
 trail’s end
 tramite
@@ -919,11 +804,10 @@ upgrading the nail
 upgrading the needle
 upgrading the weapon
 varga
+vassal loss
+vassal lost
 vaultkeeper
-vaultkeeper melody
 vaultkeepers
-vaultkeepers melody
-vaultkeeper’s melody
 vaults
 verdania
 verdinia
@@ -933,18 +817,14 @@ vesticrests
 vintage nectar
 vog
 void
-void mass
 voided
 voidmass
-volatile flintbeetles
 volt
-volt filament
-volt vessel
-volt vessels
 voltvessel
 voltvessels
 voltvyrm
 voltwyrm
+wailing mother
 wall climb
 wall cling
 wall jump
@@ -955,6 +835,7 @@ walljumping
 wanderer
 wanderers
 wanderer’s
+wandering merchant
 warding bell
 watcher at the edge
 weapon level
@@ -965,11 +846,8 @@ weave nests
 weavelight
 weavenest
 weavenests
-weaver effigies
-weaver effigy
-weaver queen
+weaver
 weighted belt
-whispering vaults
 white key
 white ward
 whiteward
@@ -978,7 +856,6 @@ widows
 widow’s
 wingsmould
 wisp
-wisp thicket
 wispfire lantern
 wisps
 witch
@@ -998,32 +875,3 @@ yarnaby
 zango
 zaza
 zylotol
-shining needle
-steel needle
-phial
-brew
-nail art
-statuette
-statuete
-icon of hope
-missing brother
-wandering merchant
-lost merchant
-infestation
-trail's end
-final audience
-final audiance
-hero's call
-flexile spines
-flintbeetles
-alchemy
-crawbug
-wailing mother
-lifesaving bridge
-queen's egg
-queen's eggs
-survivor's camp
-vassal lost
-vassal loss
-weaver
-skarsinger

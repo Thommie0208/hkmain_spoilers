@@ -6,11 +6,8 @@
 a spell
 abbys
 abs rad
-absolute radiance
 absrad
 abyss
-abyss shriek
-abyss shrieks
 abyssal
 acid
 all binding
@@ -20,7 +17,6 @@ alubas
 ambloom
 amblooms
 an ending
-ancient basin
 another ending
 any ending
 any rad
@@ -28,21 +24,14 @@ anyrad
 anyradiance
 arcane egg
 arcane eggs
-armoured squit
-armoured squits
 ascended
+asckoth
+ascoth
 aspid
-aspid hatchling
-aspid hatchlings
-aspid hunter
-aspid hunters
-aspid mother
-aspid mothers
 attuned
-awoken dream nail
+awakened nail
 bad ending
 baldur
-baldur shell
 baldurs
 banish
 banishment
@@ -51,11 +40,6 @@ banker
 bardoon
 base ending
 basin
-battle obble
-battle obbles
-beast den
-beast's den
-beasts den
 beat the hollow knight
 bee
 beehive
@@ -73,9 +57,6 @@ booflies
 boofly
 boundless infinity
 bretta
-broken flower
-broken vessel
-brooding mawlek
 broodingmawlek
 brumm
 buzzsaw
@@ -94,20 +75,14 @@ channelled nail
 charged lumaflies
 charged lumafly
 city
-city crest
-city of tears
-city storeroom
-city storerooms
 claw
 clawless
 cliffs
 cloth
 cof
 coiled
-coiled nail
 collecter
 collector
-collector map
 collector's map
 collectors map
 collo
@@ -132,26 +107,17 @@ crawlid
 crawlids
 crest
 cristal
+cross roads
 crossroad
 crossroads
 crystal
-crystal crawler
-crystal crawlers
-crystal guardian
-crystal heart
-crystal hunter
-crystal hunters
-crystal peak
-crystal peaks
 crystallised husk
 crystallised husks
-cyclone slash
+cyclone
 cycloneslash
 d dark
 d-dark
 dash
-dash master
-dash slash
 dashes
 dashing
 dashmaster
@@ -159,8 +125,6 @@ dashslash
 dd
 ddark
 ddive
-death loodle
-death loodles
 deep focus
 deep nest
 deephunter
@@ -168,14 +132,10 @@ deephunters
 deepling
 deeplings
 deepnest
-defender crest
-defender's crest
-defenders crest
-delicate flower
 delicate flowers
+den
 descending dark
 desolate
-desolate dive
 devout
 devouts
 dirt mouth
@@ -183,23 +143,21 @@ dirtcarver
 dirtcarvers
 dirthmouth
 dirtmouth
+disinfect
 distant village
 dive
 divine
 djump
 dnail
-dnail
 dnm
-double dash
 double focus
 double jump
 down dark
+down spell
 downslam
 downward dark
 dream boss
-dream boss
 dream bosses
-dream essence
 dream fight
 dream gate
 dream nail
@@ -213,9 +171,9 @@ dream tree
 dream trees
 dream version
 dream warrior
-dream warrior
 dream warriors
 dream wielder
+dream world
 dreamer
 dreamers
 dreamgate
@@ -225,19 +183,15 @@ dreamshield
 dreamwielder
 dryya
 dung
-dung defender
 duranda
 durandas
 durandoo
 durandoos
-elder baldur
-elder baldurs
 elder bug
 elder hu
 elderbug
 elegant key
 elegy
-embrace the void
 emilitia
 endings
 enraged guardian
@@ -246,7 +200,6 @@ entombed husks
 epogo
 essence
 essences
-eternal emilitia
 eternal ordeal
 etv
 every binding
@@ -269,12 +222,8 @@ fireball
 fireballed
 fireballs
 first ending
+first trial
 flower
-flower broke
-flower broken
-flower quest
-fluke hermit
-fluke nest
 fluke nest
 flukefey
 flukefeys
@@ -287,19 +236,12 @@ flukenest
 fog canyon
 folly
 fool eater
-forgotten crossroad
-forgotten crossroads
 fotf
 fought the sun
 fourth ending
 fq
 fragile
-fragile greed
-fragile heart
-fragile strength
 fungal
-fungal waste
-fungal wastes
 fungel
 fungified husk
 fungified husks
@@ -308,9 +250,7 @@ funglings
 fungoon
 fungoons
 furious vengeflies
-furious vengefly
 fury
-fury of the fallen
 galien
 gallien
 gardens
@@ -325,54 +265,38 @@ goam
 goams
 god home
 god seeker
-god tamer
 god tuner
 godhome
 godseeker
-godseeker mode
 godtuner
 good ending
 gorb
 gorgeous husk
 gpz
 gray mourner
-gray prince zote
-great hopper
-great hoppers
-great husk sentries
-great husk sentry
-great nailsage sly
 great slash
 greatslash
 green path
 greenpath
 grey mourner
 grey prince
-grey prince zote
 grim
 grimchild
 grimm
 grimmchild
 grimmkin
-grimmkin master
-grimmkin nightmare
-grimmkin novice
 grimmsteed
+ground pound
+ground smash
 ground spikes
 grub
-grub father
-grub mimic
-grub mimics
-grub song
 grubberflies
 grubberfly
-grubberfly elegy
-grubberfly's elegy
 grubby
 grubfather
 grubs
 grubsong
-gruz mother
+gruz
 gruzzer
 gruzzers
 gs
@@ -382,7 +306,6 @@ gw
 hall of god
 hall of gods
 hallownest crown
-hallownest seal
 heavy blow
 heavy fool
 heavy fools
@@ -396,11 +319,6 @@ herra
 herrah
 hidden station
 hive
-hive blood
-hive guardian
-hive knight
-hive soldier
-hive soldiers
 hiveblood
 hiveknight
 hiveling
@@ -412,25 +330,16 @@ hoppers
 hopping zoteling
 hopping zotelings
 hornet
-hornet protector
-hornet sentinel
 hornets
 hot spring
 hotspring
 house of gods
 how many masks
 howling cliff
-howling cliffs
-howling wraith
-howling wraiths
 howling wrath
 https://mapgenie.io/hollow-knight/maps/hallownest
 hunter
-hunter journal
-hunter mark
-hunter's journal
 hunter's mark
-hunters journal
 hunters mark
 husk bullies
 husk bully
@@ -438,7 +347,6 @@ husk dandies
 husk dandy
 husk guard
 husk guards
-husk hive
 husk hornhead
 husk miner
 husk miners
@@ -449,20 +357,14 @@ husk warriors
 hwurmp
 idol
 infected
-infected balloon
-infected balloons
 infection
 iselda
 isma
-isma tear
 isma's
-isma's tear
 ismas
-ismas tear
 jiji
 jinn
 joni
-joni blessing
 joni's blessing
 jonis blessing
 journal
@@ -470,13 +372,10 @@ junk pit
 junkyard
 kedge
 king brand
-king grimm
-king idol
 king pass
 king soul
 king station
 king's brand
-king's idol
 king's mark
 king's pass
 king's station
@@ -484,7 +383,6 @@ kingdom edge
 kingdom's edge
 kingdoms edge
 kings brand
-kings idol
 kings pass
 kings station
 kingsmould
@@ -503,18 +401,13 @@ legeater
 lem
 lemer
 lemm
-lesser mawlek
 lifeblood
-lifeblood core
-lifeblood heart
 lifeseed
 lifeseeds
 lightseed
 lightseeds
 little fool
 little fools
-little weaver
-little weavers
 lk
 lmer
 long nail
@@ -525,20 +418,11 @@ lord fool
 lost kin
 love key
 love tower
-lumafly lantern
 lurien
 maggot
 maggots
 mantis
-mantis claw
-mantis lord
-mantis lords
-mantis petra
-mantis traitor
-mantis warrior
-mantis youth
 mantises
-map and quill
 marissa
 mark of pride
 markoth
@@ -547,13 +431,10 @@ marmus
 mask fragment
 mask fragments
 mask maker
-mask shard
 mask shards
 maskflies
 maskfly
 massive moss
-massive moss charger
-master grimm
 mato
 mawlek
 mawlurk
@@ -568,10 +449,8 @@ millibelle
 mister mushroom
 mmc
 monarch wing
-monarch wings
 monomon
 mop
-moss charger
 moss charger
 moss knight
 moss knights
@@ -587,7 +466,6 @@ mosskin
 mossy
 moth
 mothwing
-mothwing cloak
 mound
 mr mushroom
 mr. mushroom
@@ -608,15 +486,12 @@ nail upgrades
 nailart
 nailmaster
 nailmaster's
-nailmaster's glory
 nailmasters
-nailmasters glory
 nailsage
 nailsmith
 nart
 narts
 nightmare king
-nightmare king grimm
 nkg
 no eyes
 nonsenf
@@ -637,7 +512,6 @@ oomas
 ore
 ores
 oro
-oro & mato
 overcharm
 overcharmed
 overcharming
@@ -657,14 +531,9 @@ p5
 p5ab
 p5eb
 paintmaster
-paintmaster sheo
 palace
-palace ground
-palace grounds
 pale king
 pale lurker
-pale ore
-pale ores
 panth
 panth1
 panth2
@@ -672,9 +541,6 @@ panth3
 panth4
 panth5
 pantheon
-pantheon of hallownest
-pantheon of the knight
-pantheon of the sage
 pantheons
 passing of the age
 path of pain
@@ -685,12 +551,9 @@ pilflips
 pleasure house
 poh
 pop
-primal aspid
 primal aspids
-prince zote
 pufferfish
 pure nail
-pure vessel
 purevessel
 pv
 q slash
@@ -707,8 +570,6 @@ queen's station
 queens garden
 queens station
 queen’s garden
-queen’s garden
-quick cast
 quick focus
 quick slash
 quick spell
@@ -717,7 +578,11 @@ quickslash
 quill
 quirrel
 r04
+r1ab
+r2ab
+r3ab
 r4
+r4ab
 r5
 r5ab
 rabono
@@ -728,8 +593,6 @@ radiance
 radiant
 radianting
 radience
-radience
-radient
 radient
 radkoth
 raidiance
@@ -742,12 +605,8 @@ resting grounds
 revek
 root
 royal retainer
-royal waterway
-royal waterways
-ruined flower
 salbura
 salubra
-salubra blessing
 salubra's blessing
 salubras
 sanctum
@@ -759,26 +618,22 @@ sealed sibling
 sealed siblings
 seals
 second ending
+second trial
 seer
+sentinel
 shade
-shade cloak
-shade soul
 shades
 shadow cloak
 shadow creeper
 shadow creepers
 shaman
-shaman stone
 shamans
-shape of unn
 shard
 shardmite
 shardmites
-sharp baldur
-sharp baldurs
 sharp shadow
 sharpened
-sharpened nail
+sharpshadow
 sheo
 shielded fool
 shielded fools
@@ -803,22 +658,15 @@ slobbering husk
 slobbering husks
 sly
 smith
-snail shaman
-soul catcher
 soul eater
 soul master
 soul sanctuary
-soul sanctum
-soul sanctum
 soul snatcher
-soul twister
 soul twisters
-soul tyrant
 soul warrior
 soulmaster
 spell build
 spell builds
-spell twister
 spell upgrade
 spells
 spin attack
@@ -828,8 +676,7 @@ spire
 spirit glade
 spirits glade
 spore
-spore shroom
-spore shrooms
+sporeshroom
 sporg
 sporgs
 sprint master
@@ -839,20 +686,17 @@ squits
 sshadow
 ssoul
 stag
-stag nest
 stags
 stagway
+stagways
 stalwart
-stalwart shell
 steady
-steady body
 steal soul
 steel soul
 steelsoul
 stone sanctuary
 sturdy fool
 sturdy fools
-super dash
 sword rain
 t1
 t2
@@ -865,25 +709,14 @@ teacher's archives
 teachers archive
 teachers archives
 the 3 mounds
-the abyss
-the city
-the collector
-the collector map
-the collector's map
-the god seeker
-the godseeker
-the hive
-the hunter
-the last stag
 the lighthouse
 the mighty
 the sisters
 the spell
 the tear
-third endings
+third trial
 thk
 thorns
-thorns of agony
 tiktik
 tiktiks
 tiso
@@ -893,9 +726,7 @@ tof
 tower of love
 trail 1
 traitor
-traitor lord
 tram
-tram pass
 trams
 tramway
 trial 2
@@ -906,94 +737,69 @@ trial of the fool
 trial of the warrior
 trials
 troupe
-troupe master
-troupe master grimm
 true ending
 tuk
 twister
 tyrant
 unbreakable
-unbreakable greed
-unbreakable heart
-unbreakable strength
 unbreakables
 unbstrength
+uninfect
 unn
-unnamed moth
 uoma
 upgrade nail
+upgrade spell
 upgrade the nail
+upgrade ur nail
 upgrade your nail
 upgraded my nail
 upgraded nail
 upgrading nail
 uumuu
 vengefly
-vengefly king
 vengeful
-vengeful spirit
 vengful
 vespa
 vessel
-vessel fragment
 vessels
 vfk
 violent husk
 violent husks
 vk
 void
-void heart
-void idol
-void tendril
-void tendrils
 voidheart
-volatile gruzzer
-volatile gruzzers
-volatile mosskin
 volatile mosskins
 volatile zoteling
 volatile zotelings
-volt twister
 volt twisters
 wall hop
 wall jump
 wallhop
 wallhops
-wanderer journal
-wanderer's journal
-wanderers journal
 wandering husk
 warrior dream
 warrior dreams
 watcher
-watcher knight
-watcher knight
-watcher knights
 water ways
 waterway
 waterways
 wayward
-wayward compass
 wd
 weathered mask
 weaver
-weaver song
 weaverlings
 weavers
 weaversong
 what nail
 which ending
-whispering root
 white defender
 white frag
 white fragment
 white lady
-white palace
 white palaces
 willoh
 winged fool
 winged fools
-winged nosk
 winged sentries
 winged sentry
 winged zoteling
@@ -1012,32 +818,4 @@ ze'mer
 zemer
 zmer
 zote
-zote the mighty
 zotes
-upgrade spell
-den
-sentinel
-sharpshadow
-gruz
-ground smash
-ground pound
-down spell
-stagways
-r1ab
-r2ab
-r3ab
-r4ab
-cyclone
-dream world
-asckoth
-ascoth
-sporeshroom
-trial of the fool
-cross roads
-upgrade ur nail
-first trial
-second trial
-third trial
-uninfect
-disinfect
-awakened nail
